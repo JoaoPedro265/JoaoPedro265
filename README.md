@@ -1,6 +1,14 @@
 ### Olá Eu sou o João Pedro 👋
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedro265&show_icons=true&theme=radical)
+![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro265&theme=dark&layout=compact&langs_count=7)
+
+<div>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-rodrigues265/">
+<img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:joao.p.rodrigues265@gmail.com">
+<img align="center" alt="html5" src="  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
 
 ### Linguagem de programação
 
