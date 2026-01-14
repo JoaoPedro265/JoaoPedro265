@@ -3,11 +3,12 @@
 ###
 
 <div>
-  
   <a href="mailto:joao.p.rodrigues265@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="40"/>
-  </a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-rodrigues265/">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-rodrigues265/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 <h2 align="left">Linguagem de programação</h2>
